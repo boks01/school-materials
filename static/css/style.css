@@ -1,0 +1,22 @@
+#footer{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    background-color: #dc3545;
+    color: #fff;
+}
+
+input{
+    border-radius: 8px;
+    height: 35px;
+}
+
+.add{
+    padding: 50px; 
+    text-align: center;
+}
+
+.content{
+    padding: 50px; 
+    text-align: center;
+}
