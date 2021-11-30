@@ -62,7 +62,7 @@ def all_material():
         "rating":i.rating,
     }
         material_data.append(jawis2)
-    return jsonify(School materials=material_data)
+    return jsonify(School_materials=material_data)
 
 
 @app.route('/add_material', methods=['POST', "GET"])
